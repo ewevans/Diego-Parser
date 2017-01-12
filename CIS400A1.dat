@@ -1,0 +1,8 @@
+2 or 3 letter SUCC: ab ad da ba bab bad dab dad aba ada
+2 or 3 letter FAIL: aa bb dd bd db af be aaa bbb ddd aad aab baa daa
+plosive vs plosivestop SUCC: bababa dadada baddabab ababaaba
+plosive vs plosivestop FAIL: babbababb dabbababab baabbaa dabbabbaba
+big words SUCC: bababababa dabbadabbada abaabaabababa dabbaddabadda
+big words FAIL: baddabbada abaabaabaaba ababaddabbabaa badbadbadbadbadbad
+extreme SUCC: babababababababababababa ababadababababababababababababab
+extreme FAIL: dabbaabaabaabaabaabaabaabaaba
